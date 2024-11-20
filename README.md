@@ -1,2 +1,3 @@
 # Leon-template-HTML-CSS
 The design is just practice what i have learned from Elzero Web School channel course in youtube
+the design is not done 100% as the one in the course ...
